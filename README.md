@@ -1,12 +1,60 @@
 # ARCHITECTURE STORIES
-Collection of useful architecture stories, how organizations have implemented various technology stacks
+
+<p>Collection of useful architecture stories, how organizations have implemented various technology stacks</p>
+
 ---
-### HISTORY
+## Table of Contents
+
+- [History](#history)
+- [Miscellaneous](#miscellaneous)
+- [Companies](#companies)
+  - [AIRBNB](#airbnb)
+  - [AMAZON, AWS](#amazon-aws)
+  - [BBC](#bbc)
+  - [CHIME](#chime)
+  - [CLOUDFLARE](#cloudflare)
+  - [COINBASE](#coinbase)
+  - [DISCORD](#discord)
+  - [FACEBOOK](#facebook)
+  - [FIGMA](#figma)
+  - [FLIPKART](#flipkart)
+  - [GITHUB](#github)
+  - [GITLAB](#gitlab)
+  - [GOOGLE](#google)
+  - [INSTAGRAM](#instagram)
+  - [IMDB](#imdb)
+  - [KHAN ACADEMY](#khan-academy)
+  - [LIBERRY MUTUAL](#libery-mutual)
+  - [LINKEDIN](#linkedin)
+  - [LYFT](#lyft)
+  - [MICROSOFT](#microsoft)
+  - [NETFLIX](#netflix)
+  - [PALANTIR](#palantir)
+  - [PAYPAL](#paypal)
+  - [PINNTEREST](#pinterest)
+  - [SLACK](#slack)
+  - [SALESFORCE](#salesforce)
+  - [SENDOSO](#sendoso)
+  - [SEQUOIA CAPITAL](#sequoia-capital)
+  - [SHOPIFY](#shopify)
+  - [SIEMENS](#siemens)
+  - [SPOTIFY](#spotify)
+  - [SNAP](#snap)
+  - [SOUNDCLOUD](#soundcloud)
+  - [TINER](#tinder)
+  - [TWILIO](#twilio)
+  - [TWITTER](#twitter)
+  - [UBER](#uber)
+  - [ZILLOW](#zillow)
+
+---
+
+### History
 * [The History of Git: The Road to Domination in Software Version Control](https://www.welcometothejungle.com/en/articles/btc-history-git)
 * [Windows vs MacOS vs Linux – Operating System Handbook](https://www.freecodecamp.org/news/an-introduction-to-operating-systems/)
 ---
 
- ### MISC
+ ### Miscellaneous
 * [Various Company Stacks](https://stackshare.io/companies)
 * [System Design Cheat Sheet UBER, Netflix, Twitter etc](https://vivek-singh.medium.com/system-design-cheat-sheet-318ba2e34723)
 ---
@@ -101,7 +149,7 @@ Collection of useful architecture stories, how organizations have implemented va
 ### KHAN ACADEMY
 * [How Khan Academy Successfully Handled 2.5x Traffic in a Week](http://engineering.khanacademy.org/posts/handling-2x-traffic-in-a-week.htm)
 
-### LKIBERY MUTUAL
+### LIBERY MUTUAL
 * [How Liberty Mutual is transforming its IT using serverless computing](https://www.techrepublic.com/article/how-liberty-mutual-is-transforming-its-it-using-serverless-computing/)
 
 ### LINKEDIN
@@ -114,7 +162,7 @@ Collection of useful architecture stories, how organizations have implemented va
     * [WHICH  COMPANIES USE NODE.JS AND WHY THEY DO THAT?]("https://inoxoft.com/blog/which-companies-use-nodejs-and-why-they-do-that/)
 * [Akhilesh Gupta on the Architecture of LinkedIn’s Real-Time Messaging Platform](https://www.infoq.com/podcasts/linkedin-realtime-messaging-architecture/?utm_source=email&amp;utm_medium=toppodcasts&amp;utm_campaign=newsletter&amp;utm_content=09152020)
 
-###LYFT
+### LYFT
 * [Trino: Open Source Infrastructure Upgrading at Lyft](https://eng.lyft.com/trino-open-source-infrastructure-upgrading-at-lyft-83f26b099fa)
 * [Building Lyft’s In-App Messaging Platform](https://eng.lyft.com/building-lyfts-in-app-messaging-platform-f657e548c8c)
 * [How LyftLearn Democratizes Distributed Compute through Kubernetes Spark and Fugue](https://eng.lyft.com/how-lyftlearn-democratizes-distributed-compute-through-kubernetes-spark-and-fugue-c0875b97c3d9)
