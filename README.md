@@ -31,7 +31,7 @@
   - [NETFLIX](#netflix)
   - [PALANTIR](#palantir)
   - [PAYPAL](#paypal)
-  - [PINNTEREST](#pinterest)
+  - [PINTEREST](#pinterest)
   - [SLACK](#slack)
   - [SALESFORCE](#salesforce)
   - [SENDOSO](#sendoso)
@@ -234,6 +234,7 @@
 * [GraphQL at PayPal: An Adoption Story](https://medium.com/paypal-tech/graphql-at-paypal-an-adoption-story-b7e01175f2b7)
 
 ### PINTEREST
+* [Estimating Potential Audience Size of an Ad at Pinterest](https://medium.com/pinterest-engineering/estimating-potential-audience-size-of-an-ad-at-pinterest-f881aff6580f)
 * [How Pinterest Tuned Memcached for Big Performance Gains](https://thenewstack.io/how-pinterest-tuned-memcached-for-big-performance-gains/)
 * [Improving Distributed Caching Performance and Efficiency at Pinterest](https://medium.com/pinterest-engineering/improving-distributed-caching-performance-and-efficiency-at-pinterest-92484b5fe39b)
 * [How Pinterest Supercharged its Growth Team With Experiment Idea Review](https://medium.com/pinterest-engineering/how-pinterest-supercharged-its-growth-team-with-experiment-idea-review-fd6571a02fb8)
