@@ -15,6 +15,8 @@ Collection of useful architecture stories, how organizations have implemented va
   - [CLOUDFLARE](#cloudflare)
   - [COINBASE](#coinbase)
   - [DISCORD](#discord)
+  - [DISNEY](#disney)
+  - [EXPEDIA](#expedia)
   - [FACEBOOK](#facebook)
   - [FIGMA](#figma)
   - [FLIPKART](#flipkart)
@@ -104,6 +106,11 @@ Collection of useful architecture stories, how organizations have implemented va
 ### DISCORD
 - [How does Discord scale to 5 million concurrent users](https://sukhadanand.medium.com/how-does-discord-scale-to-5-million-concurrent-users-ed0874063fd)
 
+### DISNEY
+- [How Disney+ Hotstar Simplified Its Data Architecture for Scale](https://thenewstack.io/how-disney-hotstar-simplified-its-data-architecture-for-scale)
+
+### EXPEDIA
+- [Chaos Engineering at Expedia Group](https://medium.com/expedia-group-tech/chaos-engineering-at-expedia-group-e51a0288ee2)
 ### FACEBOOK
 - [ZippyDB: the Architecture of Facebook’s Strongly Consistent Key-Value Store](https://www.infoq.com/news/2021/09/facebook-zippydb/?utm_source=email&amp;utm_medium=architecture-design&amp;utm_campaign=newsletter&amp;utm_content=09212021)
  - [How  we built a general purpose key value store for Facebook with ZippyDB](https://engineering.fb.com/2021/08/06/core-data/zippydb/)
@@ -261,6 +268,7 @@ Collection of useful architecture stories, how organizations have implemented va
     - [Pinterest’s  Analytics as a Platform on Druid Part 2 of 3](https://medium.com/pinterest-engineering/pinterests-analytics-as-a-platform-on-druid-part-2-of-3-e63d5280a1a9)
 
 ### SLACK
+- [Remote Development at Slack](https://slack.engineering/remote-development-at-slack/)
 - [Deploys at Slack ](https://slack.engineering/deploys-at-slack-cd0d28c61701)
 - [A Terrible, Horrible, No-Good, Very Bad Day at Slack HAPROXY](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82)
 - [Integrating Continuous Load Testing into Slack Pipeline](https://www.infoq.com/news/2022/05/slack-continuous-load-testing/?utm_source=email&amp;utm_medium=devops&amp;utm_campaign=newsletter&amp;utm_content=05102022)
